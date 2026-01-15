@@ -1,0 +1,2 @@
+Python file handling is easy.
+This is the original file.
